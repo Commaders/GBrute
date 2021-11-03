@@ -12,11 +12,13 @@ using brute force attack
 - python2 brute_force.py 
 
 # second enter 
-"1 to: is start brute force attack"
-"2 to: exit"
+- 1 to: is start brute force attack
+- 2 to: exit
 
 
 # {gmail attacker}
    (  John ry   )
    type your file txt
    or coded files passwords
+
+# Screen shot
