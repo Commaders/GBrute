@@ -7,7 +7,7 @@ using brute force attack
 
 # Commands
 - apt update && apt upgrade
-- git clone https://github.com/Commaders/GBrute.git 
+- git clone https://github.com/Commaders/GBrute
 - cd GBrute 
 - python2 brute_force.py 
 
