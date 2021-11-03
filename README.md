@@ -1,10 +1,11 @@
 #Creator: johnry
+#coded by john ry
 
 # GBrute
 python script for hack gmail account 
 using brute force attack
 
-#Commands
+# Commands
 - apt update 
 - https://github.com/Commaders/GBrute.git 
 - cd GBrute 
@@ -12,3 +13,5 @@ using brute force attack
 
 # {gmail attacker}
    (  John ry   )
+   type your file txt
+   or coded files passwords
