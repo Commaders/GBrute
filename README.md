@@ -9,7 +9,8 @@ using brute force attack
 - apt update 
 - https://github.com/Commaders/GBrute.git 
 - cd GBrute 
-- python Brute_force.py 
+- python brute_force.py 
+
 
 # {gmail attacker}
    (  John ry   )
