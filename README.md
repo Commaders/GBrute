@@ -6,10 +6,14 @@ python script for hack gmail account
 using brute force attack
 
 # Commands
-- apt update 
-- https://github.com/Commaders/GBrute.git 
+- apt update && apt upgrade
+- git clone https://github.com/Commaders/GBrute.git 
 - cd GBrute 
-- python brute_force.py 
+- python2 brute_force.py 
+
+# second enter 
+"1 to: is start brute force attack"
+"2 to: exit"
 
 
 # {gmail attacker}
