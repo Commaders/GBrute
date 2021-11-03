@@ -14,6 +14,11 @@ using brute force attack
 # second enter 
 - 1 to: is start brute force attack
 - 2 to: exit
+# 3rd enter
+- enter the path of passwords file
+- your Enter is : password.txt
+# 4th enter
+- Enter Email of your Victims
 
 
 # {gmail attacker}
