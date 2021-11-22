@@ -1,6 +1,9 @@
-#Creator: johnry
-#coded by john ry
+# Creator: johnry
+## coded by john ry
 
+### Donate for my loptap for oline clases
+- https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
+- thanks for donate
 # GBrute
 python script for hack gmail account 
 using brute force attack
