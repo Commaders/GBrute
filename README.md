@@ -1,20 +1,21 @@
-# Creator: johnry
+## Creator: johnry
 ## coded by john ry
 
-### Donate for my loptap for oline clases
+### Donate for to become Sponsor
+## 2$ a week
 - https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
-- thanks for donate
-# GBrute
+- thanks 
+## GBrute
 python script for hack gmail account 
 using brute force attack
 
-# Commands
+## Commands
 - apt update && apt upgrade
 - git clone https://github.com/Commaders/GBrute
 - cd GBrute 
 - python2 brute_force.py 
 
-# second enter 
+## second enter 
 - 1 to: is start brute force attack
 - 2 to: exit
 # 3rd enter
