@@ -10,7 +10,7 @@ def main():
    print '   creator by John Ry                            '
    print '   HACKER : John Ry                              '
    print '   HACKER : CONSTANTINE                          '
-   print '   Metaverse:https://www.facebook.com/AriAkashi  '
+   print '   Metaverse:https://www.facebook.com/DEAUTH3R  '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '                                                 '
